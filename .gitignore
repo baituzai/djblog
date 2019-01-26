@@ -1,0 +1,16 @@
+.DS_Store
+*~
+*.bak
+*.bak.*
+*.old
+*.py[cod]
+*.orig
+*.class
+*.swp
+.hgiignore
+.hgtags
+__pycache__/
+node_modules/
+db.sqlite3
+*.log
+*.rdb
